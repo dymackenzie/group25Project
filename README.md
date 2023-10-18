@@ -1,2 +1,4 @@
 # dsci-100-project_template
-Template project repository for DSCI-100
+template project repository for DSCI-100
+
+members: Mackenzie, Doris, Verness, Kunyue
