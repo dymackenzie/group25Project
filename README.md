@@ -1,4 +1,3 @@
-# dsci-100-project_template
-template project repository for DSCI-100
+# DSCI 100 Group Project
 
 members: Mackenzie, Doris, Verness, Kunyue
